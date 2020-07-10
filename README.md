@@ -16,12 +16,12 @@ This Project shows graphically how various sorting Algorithm like Bubble sort, s
 
 **Modules Used:**
 
-- PyGame(Installation required if not previously installed)
+- PyGame(Installation required if not installed previously)
 - Copy (Built-in module,No Installation Required)
 - Random (Built-in module,No Installation Required)
 
 
-**Modules Required and Steps to Install them**
+**Modules Required and Steps to Install them:**
 
      You need to have Pygame Module to run this Project.
 
