@@ -21,7 +21,7 @@ This Project shows graphically how various sorting Algorithm like Bubble sort, s
 - Random (Built-in module,No Installation Required)
 
 
-**Modules Required and Steps to Install them:**
+**Modules Required to be installed:**
 
      You need to have Pygame Module to run this Project.
 
