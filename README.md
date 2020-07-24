@@ -1,4 +1,4 @@
-**Sorting Algorithms Visualizer**
+# **Sorting Algorithms Visualizer**
 
 This Project shows graphically how various sorting Algorithm like Bubble sort, selection sort, Insertion sort, etc., works.
 
